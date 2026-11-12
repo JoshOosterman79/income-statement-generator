@@ -1,0 +1,6 @@
+Date,shipping_id,amount,carrier,proxy_location
+2026-10-05,24934594,77.22,Canada Post,fj
+2026-10-10,24934595,54.85,EMS,dz
+2026-10-15,24934596,92.4,UPS,fj
+2026-10-22,24934597,63.75,Canada Post,dz
+2026-10-29,24934598,108.6,FedEx,fj
